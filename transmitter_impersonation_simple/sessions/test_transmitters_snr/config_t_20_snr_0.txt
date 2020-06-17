@@ -1,0 +1,4 @@
+parameter	value
+mod	qpsk
+snr	0
+coef_set	2
